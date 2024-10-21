@@ -1,3 +1,7 @@
+// Metha Anastasya
+// 103062300083
+// S1IT-KJ-23-002
+
 package main
 
 import (
